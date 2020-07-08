@@ -18,7 +18,7 @@ on:
 
 jobs:
 
-  build_openwrt:
+  build_openwrt: 
 
     name: Build OpenWrt and release
     runs-on: ubuntu-18.04
